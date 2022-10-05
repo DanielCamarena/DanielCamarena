@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Daniel Camarena :smile:
 
 <!--
 **DanielCamarena/DanielCamarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on wind under climate change using cmip6 models
+- 🌱 I’m currently learning tools for oceanography (Matlab, netcdf, bash,...)
+- 👯 I’m looking to collaborate on marineheatwaves detection project at [IMARPE](https://www.gob.pe/imarpe)
