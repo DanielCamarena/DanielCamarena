@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on wind under climate change using [cmip6 models](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)
-- 🌱 I’m currently learning computational tools for oceanography (Matlab, netcdf, bash,...)
+- 🌱 I’m currently learning computational tools for oceanography (Matlab, R, Python, netcdf, bash,...)
+- 🔭 I’m currently working on upwelling-favorable winds under climate change using [cmip6 models](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)
 - 👯 I’m looking to collaborate on marineheatwaves detection project at [IMARPE](https://www.gob.pe/imarpe)
