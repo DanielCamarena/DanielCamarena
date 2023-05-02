@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning computational tools for oceanography (Matlab, R, Python, netcdf, bash,...)
+- 🌱 I’m currently learning computational tools for oceanography and statistics (Matlab, R & RStudio, Python, Linux, shell, netcdf, LaTeX...)
 - 🔭 I’m currently working on [upwelling-favorable](https://en.wikipedia.org/wiki/Upwelling) winds under [climate change](https://en.wikipedia.org/wiki/Climate_change) using [cmip6 models](https://www.wcrp-climate.org/wgcm-cmip/wgcm-cmip6)
 - 👯 I’m looking to collaborate on extreme events ([marineheatwaves](https://en.wikipedia.org/wiki/Marine_heatwave), [sulphide plumes](https://www.eumetsat.int/hydrogen-sulphide-plumes-namibian-coast), [harmful algal bloom](https://en.wikipedia.org/wiki/Harmful_algal_bloom)) detection project at [IMARPE](https://www.gob.pe/imarpe)
